@@ -52,7 +52,6 @@ export default function App() {
       <footer>
         <div className="wrap">
           <p>Projeto de extensão UCSal 65 anos · Impactos do Ambiente Construído na Qualidade de Vida · Profª Elisângela Leão · Campus Pituaçu</p>
-          <p>Dados: Formulário 1 (n=18), Formulário 2 (n=15), mapa comportamental e medições do grupo em 23/11. Equipe: nomes e cursos a preencher.</p>
         </div>
       </footer>
     </>
